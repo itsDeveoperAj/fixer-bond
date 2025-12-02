@@ -63,7 +63,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground">Phone</h3>
-                    <p className="text-muted-foreground mt-1">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground mt-1">+919586906452</p>
                     <p className="text-sm text-muted-foreground">Mon-Fri, 9 AM - 6 PM EST</p>
                   </div>
                 </div>
@@ -116,7 +116,7 @@ export default function Contact() {
                       rel="noopener noreferrer"
                       className="text-primary hover:underline mt-1 block"
                     >
-                      +1 (555) 123-4567
+                      +919586906452
                     </a>
                     <p className="text-sm text-muted-foreground mt-1">
                       Quick messages and support
@@ -278,7 +278,7 @@ export default function Contact() {
                 What is the typical response time?
               </h3>
               <p className="text-muted-foreground">
-                We aim to respond to all inquiries within 24 hours during business days (Monday-Friday). For urgent matters, please call us directly at +1 (555) 123-4567.
+                We aim to respond to all inquiries within 24 hours during business days (Monday-Friday). For urgent matters, please call us directly at +919586906452.
               </p>
             </div>
 

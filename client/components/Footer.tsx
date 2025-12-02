@@ -52,7 +52,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <Phone className="h-4 w-4 mt-0.5 flex-shrink-0" />
-                <span className="opacity-75">+1 (555) 123-4567</span>
+                <span className="opacity-75">+919586906452</span>
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="h-4 w-4 mt-0.5 flex-shrink-0" />
@@ -60,7 +60,10 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0" />
-                <span className="opacity-75">123 Industrial Ave, Tech City, TC 12345</span>
+                <span className="opacity-75">Jetpur Pipli Road
+                  Morvi,Morbi, 363642,
+                  Gujarat
+                  India</span>
               </li>
             </ul>
           </div>
